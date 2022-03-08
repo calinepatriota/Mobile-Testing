@@ -8,7 +8,7 @@
                     ```
                         pip3 install -r requirements.txt
                    ```
-* Install appium with brew 
+* Install appium using brew 
           ``
           brew install appium
           ``
