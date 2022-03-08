@@ -1,6 +1,6 @@
-## Mobile-Testing
+# Mobile-Testing
 
-# iOS Automation
+## iOS Automation
 
 ##### Dependencies
 * Install Python 3 
