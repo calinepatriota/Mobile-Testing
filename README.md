@@ -20,4 +20,4 @@
                 xattr -cr Appium-Inspector-mac-2021.9.2.dmg
                 ```
 * Open Xcode and create Simulator (iOS version 10+)
-* Install .app Wikipedia on Simulator
+* Install .app Wikipedia on Simulator (Follow the instructions here: https://github.com/wikimedia/wikipedia-ios)
